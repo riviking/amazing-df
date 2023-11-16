@@ -1,0 +1,13 @@
+def createDataframe(student_data: List[List[int]]) -> pd.DataFrame:
+    """dic={}
+    for i in student_data:
+        #print(i)
+        if 'student_id' not in dic:
+            dic['student_id']=[]
+        dic['student_id'].append(i[0])
+        
+        if 'age' not in dic:
+            dic['age']=[]
+        dic['age'].append(i[1])
+        #print(dic)
+        df=pd.DataFrame(dic)"""
